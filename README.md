@@ -1,6 +1,6 @@
 # Stacked Pull Requests Guide
 
-### Author: Juan Camilo Marin Navia
+### Author: Juan Camilo Marin Navia <jcmnavia@hotmail.com>
 
 This repository is created as a guide to learn how to manage and rebase correctly stacked pull requests wihtout complicating commit history and leaving only the commits that correspond to the branch/ticket
 
