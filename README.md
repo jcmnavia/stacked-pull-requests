@@ -150,7 +150,9 @@ Now `HC-3` is ready to be merged to `main` with a clean commit history.
 ## Conclusion
 
 Staking PR's manually is hard and it takes time to make it in a clean way
+
 People know this, so, of course, there are libraries that helps you do this faster with no so much work.
+
 Visit [stacking.dev](https://www.stacking.dev/) for more information.
 
 ## Reference
